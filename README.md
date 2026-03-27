@@ -1,3 +1,20 @@
+# Caregiver Burnout Risk Screener (DataQuest 2026)
+
+Built during Western AI DataQuest 2026, a 36-hour hackathon focused on healthcare and wellbeing.
+
+## Overview
+Developed a machine learning web application to predict burnout risk among unpaid caregivers in Canada using Statistics Canada data.
+
+## My Contributions
+- Cleaned and preprocessed large-scale survey data (12,000+ rows, 900+ variables)
+- Performed feature engineering and contributed to clustering model development
+- Helped design caregiver risk profiles and interpret model outputs
+- Used AI tools (ChatGPT, Copilot) to accelerate development and iteration
+
+## Tech Stack
+Python, Pandas, Scikit-learn, Streamlit, Flask, NumPy, SHAP
+
+
 # DataQuest 2026
 
 Our Group built a Caregiver Burnout Risk Screener. It is a hackathon-built machine learning web application for profiling burnout risk among unpaid caregivers in Canada. Caregiver data is inputted into the app and is routed through a locally saved clustering model, and the results page returns a caregiver profile, the main factors shaping that profile, and tailored Canadian support resources. The project uses Statistics Canada's General Social Survey on Caregiving and Care Receiving and is designed to support earlier visibility into caregiver strain.
