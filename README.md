@@ -9,7 +9,7 @@ Developed a machine learning web application to predict burnout risk among unpai
 - Cleaned and preprocessed large-scale survey data (12,000+ rows, 900+ variables)
 - Performed feature engineering and contributed to clustering model development
 - Helped design caregiver risk profiles and interpret model outputs
-- Used AI tools (ChatGPT, Copilot) to accelerate development and iteration
+- Used AI tools (ChatGPT, Clauded) to accelerate development and iteration
 
 ## Tech Stack
 Python, Pandas, Scikit-learn, Streamlit, Flask, NumPy, SHAP
